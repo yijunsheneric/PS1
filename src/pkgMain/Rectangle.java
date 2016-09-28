@@ -19,6 +19,6 @@ public class Rectangle {
 	
 	{
 
-		return 0;
+		return Width*Length ;
 	}	
 }
